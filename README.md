@@ -1,1 +1,1 @@
-# odin-basic-informational-site
+# Odin Basic Informational Site
